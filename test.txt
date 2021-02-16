@@ -1,0 +1,35 @@
+{
+    "username": "bali0",
+	"password": "balibhai1234",
+	"firstName": "bali2",
+	"lastName": "dali2",
+	"mobile": "1234567890",
+	"isActive": "true"
+}
+
+{
+    "username": "newy",
+	"password": "balibhai1234",
+	"firstName": "new",
+	"lastName": "order",
+	"mobile": "1234567890",
+	"isActive": "false"
+}
+
+{
+    "username": "jayz1",
+	"password": "balibhai1234",
+	"firstName": "jay",
+	"lastName": "zeee",
+	"mobile": "1234567890",
+	"isActive": "true"
+}
+
+{
+    "username": "michael",
+	"password": "balibhai1234",
+	"firstName": "michael",
+	"lastName": "kinawauaka",
+	"mobile": "1234567890",
+	"isActive": "false"
+}
